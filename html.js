@@ -3,3 +3,10 @@ console.log("Hello World!")
 console.log("Hello World!") //this is frist 
 //there is a 2nd github for selecting
 //bad badges
+function main() {
+
+return null;
+}
+
+
+console.log("main")
